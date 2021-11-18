@@ -1,0 +1,16 @@
+.Header {
+    grid-area: h;
+    background-color: SkyBlue;
+}
+.Header img{
+    width: 60px;
+    height: 60px;
+}
+.loginBlock{
+    float: right;
+}
+.loginBlock a{
+    color: floralwhite;
+    text-decoration: none;
+    padding-right: 25px;
+}

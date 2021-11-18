@@ -1,0 +1,14 @@
+.formControle.error input,
+.formControle.error textarea{
+    border: solid 2px red;
+} 
+
+.formControle.error span{
+    color: red;
+}
+
+.formsummeryerro{
+    border: 1px red solid;
+    padding: 5px;
+    color:burlywood
+}

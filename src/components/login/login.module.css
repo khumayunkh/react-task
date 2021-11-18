@@ -1,0 +1,50 @@
+.log{
+    grid-area: h;
+    border:1px solid skyblue;
+    background-color: SkyBlue;
+}
+.sighup{
+    padding-left: 10px;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(3, 53, 73);
+}
+.discription{
+    padding-left: 10px;
+    font-family:Trebuchet MS;
+    color:rSkyBlue
+}
+.login{
+    padding-left: 10px;
+    display: block;
+    border-color: SkyBlue;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+    border-top-color: black;
+    border-left-color: cadetblue;
+}
+.button{
+    margin-top: 5px;
+    display: block;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    color: cornflowerblue;
+    border-top-color: black;
+    border-left-color: cadetblue;
+    border-color: SkyBlue;
+}
+.rememberMe{
+    margin-left: 5px;
+}
+.formsummeryerror{
+    margin-left: 5px;
+    margin-top: 10px;
+    width: 110px;
+    height: 20px;
+    border: 2px red solid;
+    border-radius: 5px;
+    padding: 5px;
+    color:red
+}

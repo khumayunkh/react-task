@@ -1,0 +1,8 @@
+.photo{
+    width: 80px;
+    height: 80px;
+}
+.selected{
+    font-size: large;
+    font-family: Arial;
+}

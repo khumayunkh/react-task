@@ -1,0 +1,13 @@
+.sayt{
+    display: grid;
+    grid-template-areas: "h h"
+    "m i";
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+}
+.Menu{
+    grid-area: i;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+

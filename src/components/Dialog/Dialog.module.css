@@ -1,0 +1,11 @@
+.Dialogs{
+    display:grid;
+    grid-template-columns: 2fr 8fr;
+}
+.active{
+    color:red;
+}
+.DialogsItems a{
+    text-decoration: none;
+}
+

@@ -1,0 +1,22 @@
+.input{
+    display: block;
+    border-color: SkyBlue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    border-top-color: black;
+    border-left-color: cadetblue;
+}
+.button{
+    margin-left: 120px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    display: block;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    color: cornflowerblue;
+    border-top-color: black;
+    border-left-color: cadetblue;
+    border-color: SkyBlue;
+}

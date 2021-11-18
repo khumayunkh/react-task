@@ -1,0 +1,17 @@
+.food1{
+    grid-area: m;
+    background-color: SkyBlue;
+    margin-top: 10px;
+
+}
+.food1 a{
+    padding: 10px;
+    text-decoration: none;
+}
+.active{
+    color: red;
+}
+.setting{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
